@@ -19,7 +19,8 @@ and Love Music 🎵 and Coffee ☕
 <h2>Tools & Skills : </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,cs,mysql,vscode,dotnet,github,html,linux,visualstudio,postman,windows" />
+    <img src="https://skillicons.dev/icons?i=git,vim,cs,vscode,dotnet,github,html,linux,visualstudio,postman,windows" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
   </a>
 </p>
 

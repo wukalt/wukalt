@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic&weight=800&pause=1000&size=33&color=A30000&width=370&height=100&lines=Hey, I'm+Mehdi." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic&weight=800&pause=1000&size=33&color=cb681b&width=370&height=100&lines=Hey, I'm+Mehdi." alt="Typing SVG" /></a>
 </p>
     
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-A30000" />
-  <img src="https://img.shields.io/badge/Working_on-.NET-A30000"
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-fabd2e" />
+  <img src="https://img.shields.io/badge/Working_on-.NET-fabd2e"
 </p>
 
 <br>
@@ -19,15 +19,14 @@ and Love Music 🎵 and Coffee ☕
 <h2>Tools & Skills : </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,cs,vscode,dotnet,github,html,linux,visualstudio,postman,windows" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
+    <img src="https://skillicons.dev/icons?i=windows,visualstudio,dotnet,cs,github,git,neovim,vscode,html" />
   </a>
 </p>
 
 
 <h2 align="left">My Github Stats : </h2>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wukalt&theme=dracula">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wukalt&theme=gruvbox-duo">
 </p>
 
 <h2>Contact me :</h2>
